@@ -13,6 +13,7 @@ By [@joaomdmoura](https://x.com/joaomdmoura).
 - [Markdown Validator](https://github.com/joaomdmoura/crewAI-examples/tree/main/markdown_validator)
 - [Game Generator](https://github.com/joaomdmoura/crewAI-examples/tree/main/game-builder-crew)
 - [Using Azure OpenAI API](https://github.com/joaomdmoura/crewAI-examples/tree/main/azure_model)
+- Add code review example
 
 Starting your own example
   - [Starter Template](https://github.com/joaomdmoura/crewAI-examples/tree/main//starter_template)
